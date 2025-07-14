@@ -4,7 +4,7 @@
   "dependencyDashboard": true,
   "baseBranches": ["master"],
   "schedule": ["at 17:00 on saturday"],
-  "timezone": "Asia/Kolkata"
+  "timezone": "Asia/Kolkata",
   "automerge": false,
   "labels": ["dependencies"],
   "packageRules": [
