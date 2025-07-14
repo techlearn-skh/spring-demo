@@ -3,7 +3,8 @@
   "extends": ["config:base"],
   "dependencyDashboard": true,
   "baseBranches": ["master"],
-  "schedule": ["at 07:50 on monday"],
+  "schedule": ["at 17:00 on saturday"],
+  "timezone": "Asia/Kolkata"
   "automerge": false,
   "labels": ["dependencies"],
   "packageRules": [
